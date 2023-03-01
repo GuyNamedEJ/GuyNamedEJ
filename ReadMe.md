@@ -7,7 +7,7 @@ Software Engineer
 I've been coding for the past 5 years. I started out wanting to do game development but really took a liking to web development. I am very comfortable in my front end skills using HTML, CSS, and JavaScript. For the past few months, I've been working on backend programming using Node.js, Express.js, and MongoDB. I've completed a number of projects and continue to develop my skills however I can.
 
 * 🌍  I'm based in Silver Spring, MD
-* 🖥️  See my portfolio at [My Portfolio](http://guynamedej.netlify.app)
+* 🖥️  See my portfolio at [My Portfolio](http://ejmilord.netlify.app)
 * ✉️  You can contact me at [guynamedej@gmail.com](mailto:guynamedej@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on anything and everything
