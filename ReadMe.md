@@ -19,7 +19,8 @@
   </a>
 </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
+I'm Software developer with experience in full-stack web development and game development using the unity engine looking to gain
+valuable professional work experience while developing skills as a programmer.
 
 See [my website](https://ejmilord.netlify.app/) for more information!
 
