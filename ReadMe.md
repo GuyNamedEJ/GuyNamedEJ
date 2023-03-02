@@ -1,5 +1,5 @@
 
-<!-- <img src="banner.jfif" width="100%"> -->
+<img src="banner.jfif" width="100%">
 
 <p align="center">
   <a href="https://ejmilord.netlify.app/" target="_blank">
