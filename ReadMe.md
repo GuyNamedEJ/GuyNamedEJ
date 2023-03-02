@@ -44,13 +44,13 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>REACT| TAILWIND | MATERIAL UI | COUNTRIES REST API</strong> - This site will give you information on every country in the world</p>
+        <p><strong>REACT | TAILWIND | MATERIAL UI | COUNTRIES REST API</strong> - This site will give you information on every country in the world</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Splitter Calculator</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="splitter-prev.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
@@ -62,16 +62,16 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML | BOOTSTRAP 5 | JAVASCRIPT</strong> - A tool to help you splitter the bill when you go out to eat with friends! Also useful if you eat out solo.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">The Planets</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="planets-prev.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -82,25 +82,25 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>NODE.JS | EJS</strong> - This project is a informational site about the planets. No, Pluto isn't a planet. (Render.com free tier apps load slowly, please be patient). Data taken from JSON file.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Clock App</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://clock-app-main.vercel.app/">
+          <img src="clock-prev.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/GuyNamedEJ/clock-app-main" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://clock-app-main.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML | CSS | JAVASCRIPT | REST APIS</strong> -A simple app that displays the time in your location, as well as a random quote. (Note: Random Quote does not work since Heroku no longer has a free tier)</p>
     </td>
   </tr>
 </table>
