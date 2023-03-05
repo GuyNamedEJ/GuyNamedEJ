@@ -50,7 +50,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Splitter Calculator</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://tip-calculator-app-main-jade.vercel.app/">
             <img src="splitter-prev.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
@@ -71,7 +71,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">The Planets</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="https://all-about-the-planets.onrender.com/">
           <img src="planets-prev.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
