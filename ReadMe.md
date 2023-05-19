@@ -25,6 +25,8 @@ valuable professional work experience while developing skills as a programmer.
 See [my website](https://ejmilord.netlify.app/) for more information!
 
 # CodeWars
+[Click Here](/Codewars-Solutions) to view the codewars problems I've solved.
+
 [![Profile badge](https://www.codewars.com/users/GuyNamedEJ/badges/large)](https://www.codewars.com/users/GuyNamedEJ)
 
 
