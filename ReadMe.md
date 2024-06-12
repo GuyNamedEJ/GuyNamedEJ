@@ -33,7 +33,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
 <table bordercolor="#66b2b2">
 
   <tr>
-  <!--Row 1 Start-->
+  <!- -Row 1 Start -->
     <td width="50%" valign="top">
       <h3 align="center">Splitter Calculator</h3>
         <br />
