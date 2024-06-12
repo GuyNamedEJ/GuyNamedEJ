@@ -31,7 +31,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-
+ <!-- Row 1 Start -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Splitter Calculator</h3>
@@ -69,8 +69,9 @@ See [my website](https://ejmilord.netlify.app/) for more information!
         <p><strong>HTML | CSS | JAVASCRIPT | REST APIS</strong> -A simple app that displays the time in your location, as well as a random quote. (Note: Random Quote does not work since Heroku no longer has a free tier)</p>
     </td>
 
-    <!--- Row 1 End --->
+    
   </tr>
+  <!-- Row 1 End -->
 </table>
 
 <h1 align="center">Technologies</h1>
