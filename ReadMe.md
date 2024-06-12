@@ -60,7 +60,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML | CSS | JAVASCRIPT | REST APIS</strong> -A simple app that displays the time in your location, as well as a random quote. (Note: Random Quote does not work since Heroku no longer has a free tier)</p>
+        <p><strong>HTML | CSS | JAVASCRIPT | REST APIS</strong> -A simple app that displays the time in your location, as well as a random quote. </p>
     </td>
 
     
