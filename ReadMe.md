@@ -69,7 +69,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
         <p><strong>HTML | CSS | JAVASCRIPT | REST APIS</strong> -A simple app that displays the time in your location, as well as a random quote. (Note: Random Quote does not work since Heroku no longer has a free tier)</p>
     </td>
 
-    <!--Row 1 End-->
+    <!--- Row 1 End --->
   </tr>
 </table>
 
