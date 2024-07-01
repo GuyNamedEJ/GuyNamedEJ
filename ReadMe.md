@@ -66,6 +66,50 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     
   </tr>
   <!-- Row 1 End -->
+
+  <!-- Row 2 Start -->
+   
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Dictionary App</h3>
+        <br />
+      <a target="_blank" href="https://ej-dictionary.netlify.app/">
+            <img src="splitter-prev.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">   
+  <a href="https://github.com/GuyNamedEJ/Dictionary-App" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://tip-calculator-app-main-jade.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>REACT | JAVASCRIPT | REST API</strong> - A small project that uses a dictionary API</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Clock App</h3>
+        <br />
+        <a target="_blank" href="https://clock-app-main.vercel.app/">
+          <img src="clock-prev.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/GuyNamedEJ/Where-in-the-world-react" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://project-globetrotter.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>REACT | MATERIAL UI | JAVASCRIPT | REST API</strong> - A simple app that displays the countries of the world and some information about them </p>
+    </td>
+
+    
+  </tr>
+
+  <!-- Row 2 End -->
 </table>
 
 <h1 align="center">Technologies</h1>
