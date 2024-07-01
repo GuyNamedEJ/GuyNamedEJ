@@ -88,7 +88,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
         <p><strong>REACT | JAVASCRIPT | REST API</strong> - A small project that uses a dictionary API</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Clock App</h3>
+      <h3 align="center">Where in the world?</h3>
         <br />
         <a target="_blank" href="https://clock-app-main.vercel.app/">
           <img src="clock-prev.gif" width="100%" alt="Matching Cards"/>
