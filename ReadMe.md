@@ -133,16 +133,16 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Galleria</h3>
         <br />
-        <a target="_blank" href="https://clock-app-main.vercel.app/">
+        <a target="_blank" href="https://ej-galleria.netlify.app/">
           <img src="galleria-prev.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/GuyNamedEJ/Where-in-the-world-react" target="_blank">
+  <a href="https://github.com/GuyNamedEJ/Galleria" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://project-globetrotter.netlify.app/" target="_blank">
+  <a href="https://ej-galleria.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
