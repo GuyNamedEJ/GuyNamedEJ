@@ -118,7 +118,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
       <h3 align="center">Rock, Paper, Scissors</h3>
         <br />
       <a target="_blank" href="https://all-about-the-planets.onrender.com/">
-            <img src="planets-prev.gif" width="100%"  alt="Rigley 2"/>
+            <img src="rps-prev.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">   
