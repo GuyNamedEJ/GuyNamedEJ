@@ -178,7 +178,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
       <h3 align="center">Dictionary App</h3>
         <br />
         <a target="_blank" href="https://ej-dictionary.netlify.app/">
-          <img src="country-prev.gif" width="100%" alt="Matching Cards"/>
+          <img src="dictionary-prev.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
