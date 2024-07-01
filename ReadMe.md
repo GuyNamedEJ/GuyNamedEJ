@@ -110,6 +110,94 @@ See [my website](https://ejmilord.netlify.app/) for more information!
   </tr>
 
   <!-- Row 2 End -->
+
+   <!-- Row 3 Start -->
+   
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Rock, Paper, Scissors</h3>
+        <br />
+      <a target="_blank" href="https://all-about-the-planets.onrender.com/">
+            <img src="planets-prev.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">   
+  <a href="https://github.com/GuyNamedEJ/planets-fact-site" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://all-about-the-planets.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>NODE.JS | EJS </strong> - Created a simple Node server that takes data from a JSON file and displays it onto the screen using an EJS template</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Galleria</h3>
+        <br />
+        <a target="_blank" href="https://clock-app-main.vercel.app/">
+          <img src="country-prev.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/GuyNamedEJ/Where-in-the-world-react" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://project-globetrotter.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>REACT | MATERIAL UI | JAVASCRIPT | REST API</strong> - A simple app that displays the countries of the world and some information about them </p>
+    </td>
+
+    
+  </tr>
+
+  <!-- Row 3 End -->
+
+    <!-- Row 3 Start -->
+   
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My Team</h3>
+        <br />
+      <a target="_blank" href="https://ej-myteam.netlify.app/">
+            <img src="planets-prev.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">   
+  <a href="https://github.com/GuyNamedEJ/My-Team-Site" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://ej-myteam.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>REACT | TAILWIND </strong> - Multipage website for a fictional tech company made using React.js</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Galleria</h3>
+        <br />
+        <a target="_blank" href="https://ej-galleria.netlify.app/">
+          <img src="country-prev.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/GuyNamedEJ/Galleria" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://ej-galleria.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>REACT</strong> - A simple app that displays the countries of the world and some information about them </p>
+    </td>
+
+    
+  </tr>
+
+  <!-- Row 3 End -->
 </table>
 
 <h1 align="center">Technologies</h1>
