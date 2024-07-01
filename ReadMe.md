@@ -111,8 +111,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
 
   <!-- Row 2 End -->
 
-   <!-- Row 3 Start -->
-   
+  <!-- Row 3 Start -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Rock, Paper, Scissors</h3>
