@@ -103,7 +103,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>REACT | MATERIAL UI | JAVASCRIPT | REST API</strong> - A simple app that displays the countries of the world and some information about them </p>
+        <p><strong>REACT | MATERIAL UI | REST API</strong> - A simple app that displays the countries of the world and some information about them </p>
     </td>
 
     
@@ -191,12 +191,9 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>REACT</strong> - A simple app that displays the countries of the world and some information about them </p>
-    </td>
-
-    
+        <p><strong>REACT | TAILWIND </strong> - Art Gallery slideshow site that gives information on different paintings. Data taken from a JSON file </p>
+    </td>    
   </tr>
-
   <!-- Row 3 End -->
 </table>
 
