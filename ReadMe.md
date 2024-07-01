@@ -134,7 +134,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
       <h3 align="center">Galleria</h3>
         <br />
         <a target="_blank" href="https://clock-app-main.vercel.app/">
-          <img src="country-prev.gif" width="100%" alt="Matching Cards"/>
+          <img src="galleria-prev.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
