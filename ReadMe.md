@@ -71,27 +71,27 @@ See [my website](https://ejmilord.netlify.app/) for more information!
    
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Dictionary App</h3>
+      <h3 align="center">The Planets</h3>
         <br />
-      <a target="_blank" href="https://ej-dictionary.netlify.app/">
-            <img src="splitter-prev.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://all-about-the-planets.onrender.com/">
+            <img src="planets-prev.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">   
-  <a href="https://github.com/GuyNamedEJ/Dictionary-App" target="_blank">
+  <a href="https://github.com/GuyNamedEJ/planets-fact-site" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://tip-calculator-app-main-jade.vercel.app/" target="_blank">
+  <a href="https://all-about-the-planets.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>REACT | JAVASCRIPT | REST API</strong> - A small project that uses a dictionary API</p>
+        <p><strong>NODE.JS | EJS </strong> - Created a simple Node server that takes data from a JSON file and displays it onto the screen using an EJS template</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Where in the world?</h3>
         <br />
         <a target="_blank" href="https://clock-app-main.vercel.app/">
-          <img src="clock-prev.gif" width="100%" alt="Matching Cards"/>
+          <img src="country-prev.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
