@@ -154,7 +154,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
 
   <!-- Row 3 End -->
 
-    <!-- Row 3 Start -->
+  <!-- Row 4 Start -->
    
   <tr>
     <td width="50%" valign="top">
@@ -193,7 +193,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
         <p><strong>REACT </strong> - Simple Dictionary app created using an API </p>
     </td>    
   </tr>
-  <!-- Row 3 End -->
+  <!-- Row 4 End -->
 </table>
 
 <h1 align="center">Technologies</h1>
