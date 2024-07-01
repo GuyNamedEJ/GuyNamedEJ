@@ -161,7 +161,7 @@ See [my website](https://ejmilord.netlify.app/) for more information!
       <h3 align="center">My Team</h3>
         <br />
       <a target="_blank" href="https://ej-myteam.netlify.app/">
-            <img src="planets-prev.gif" width="100%"  alt="Rigley 2"/>
+            <img src="myTeam-prev.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">   
