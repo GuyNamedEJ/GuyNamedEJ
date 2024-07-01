@@ -117,19 +117,19 @@ See [my website](https://ejmilord.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Rock, Paper, Scissors</h3>
         <br />
-      <a target="_blank" href="https://all-about-the-planets.onrender.com/">
+      <a target="_blank" href="https://rock-paper-scissors-guynamedej.vercel.app/">
             <img src="rps-prev.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">   
-  <a href="https://github.com/GuyNamedEJ/planets-fact-site" target="_blank">
+  <a href="https://github.com/GuyNamedEJ/rock-paper-scissors-master" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://all-about-the-planets.onrender.com/" target="_blank">
+  <a href="https://rock-paper-scissors-guynamedej.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>NODE.JS | EJS </strong> - Created a simple Node server that takes data from a JSON file and displays it onto the screen using an EJS template</p>
+        <p><strong>HTML | CSS | JAVASCRIPT </strong> - A simple game of rock, paper, scissors</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Galleria</h3>
